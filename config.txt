@@ -1,0 +1,6 @@
+The directory of the files .svg and .pgm should be in the following format:
+
+"/.../"
+
+Example:
+"/home/gustavo/Desktop/"

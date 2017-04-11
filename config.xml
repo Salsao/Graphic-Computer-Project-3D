@@ -1,0 +1,8 @@
+<config>
+	<inputFiles>
+		<arenaDescription name="arena" type="svg" path="./"></arenaDescription>
+		<arenaMobility name="arenaMobility" type="pgm" path="./"></arenaMobility>
+		<arenaDistanceMap name="arenaDistanceMap" type="pgm" path="./"></arenaDistanceMap>
+		<parametros shootSpeed="0.2" tankSpeed="0.1" shootsRate="0.0001" ></parametros>
+	</inputFiles>
+</config>
