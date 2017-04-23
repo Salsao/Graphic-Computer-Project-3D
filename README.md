@@ -1,7 +1,9 @@
-# Graphic Computer Work in 3D
+# Graphic Computer Project in 3D
 This work is for Graphic Computer discipline for Federal University of Espírito Santo in 2014/2.
 
-It's a game where you control a tank in a maze (as an PNG image) and you shoot other tanks without taking a single hit.
+It's a game where you control a tank in a maze (as an PNG image) and you shoot other tanks without taking three hits.
+
+Video demonstrating: https://youtu.be/en5boq6k8II
 
 You can change the speed of the tank and cannon ball speed by changing the parameter tankSpeed and shootSpeed, respectively in the config.xml file.
 
