@@ -1,5 +1,5 @@
 # Graphic Computer Project in 3D
-This work is for Graphic Computer discipline for Federal University of Espírito Santo in 2014/2.
+This project is for Graphic Computer discipline for Federal University of Espírito Santo in 2014/2.
 
 It's a game where you control a tank in a maze (as an PNG image) and you shoot other tanks without taking three hits.
 
